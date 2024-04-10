@@ -8,7 +8,9 @@
 ## geting started
 Resources:
 
-   - https://risky.biz/
+   - https://risky.biz
+   - https://hackerone.com
+   - https://www.bugcrowd.com
 
 Tools:
 
