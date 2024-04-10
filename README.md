@@ -8,27 +8,27 @@
 ## geting started
 Tools:
 
-    - Kali linux: https://www.kali.org
+   - Kali linux: https://www.kali.org
 
 ## Web
 Resources:
 
-    - OWASP to 10: https://owasp.org/www-project-top-ten/
+   - OWASP to 10: https://owasp.org/www-project-top-ten/
 
 Tools:
 
-    - Burb Suite: https://portswigger.net/burp/communitydownload
-    - OWASP list: https://owasp.org/www-community/Vulnerability_Scanning_Tools
+   - Burb Suite: https://portswigger.net/burp/communitydownload
+   - OWASP list: https://owasp.org/www-community/Vulnerability_Scanning_Tools
 
 ## Social Engeneering
 Resources:
 
-  - Kevin Mitnick
+  - Kevin Mitnick: https://www.mitnicksecurity.com/the-art-of-deception
 
 ## OsInt
 Tools:
 
-  - Maltego
+  - Maltego: https://www.maltego.com/
 
 ## OpSec
 Resources:
