@@ -6,6 +6,10 @@
    - OpSec
 
 ## geting started
+Resources:
+
+   - https://risky.biz/
+
 Tools:
 
    - Kali linux: https://www.kali.org
