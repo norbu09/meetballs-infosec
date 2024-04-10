@@ -35,6 +35,7 @@ Resources:
 Tools:
 
   - Maltego: https://www.maltego.com/
+  - list of tools: https://github.com/Astrosp/Awesome-OSINT-For-Everything
 
 ## OpSec
 Resources:
